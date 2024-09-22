@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruairidh
 - 👀 I’m interested in physics, mathematics and coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python. I am slowly working through a course on C++.
 - 💞️ I’m looking to collaborate on anything interesting! Open to mostly anything. I have been playing with prime number generators and will be studying a computational experiment module this year at university.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
